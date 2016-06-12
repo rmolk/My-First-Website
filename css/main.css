@@ -55,10 +55,22 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300
+}
+
 h1 {
     color: #562661;
     font-size: 38px;
     margin: 0;
+    font-family: 'Slabo 27px', serif;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
 
 #about h1 {
